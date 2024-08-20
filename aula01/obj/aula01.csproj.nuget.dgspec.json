@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\GitHub\\DesSIAvancadosI\\aula01\\aula01.csproj": {}
+    "/workspaces/DesSIAvancadosI/aula01/aula01.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\GitHub\\DesSIAvancadosI\\aula01\\aula01.csproj": {
+    "/workspaces/DesSIAvancadosI/aula01/aula01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\GitHub\\DesSIAvancadosI\\aula01\\aula01.csproj",
+        "projectUniqueName": "/workspaces/DesSIAvancadosI/aula01/aula01.csproj",
         "projectName": "aula01",
-        "projectPath": "D:\\Faculdade\\GitHub\\DesSIAvancadosI\\aula01\\aula01.csproj",
-        "packagesPath": "C:\\Users\\Teodoro\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\GitHub\\DesSIAvancadosI\\aula01\\obj\\",
+        "projectPath": "/workspaces/DesSIAvancadosI/aula01/aula01.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/DesSIAvancadosI/aula01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Teodoro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
