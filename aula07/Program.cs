@@ -1,5 +1,12 @@
 ﻿public class Program{
-    // O Action<T1,T2>:Representa um metodo que aceita
+    
+    /*
+    - O Action<T1, T2>: Representa um método que aceita 16
+    parâmetros e não retorna valor (void)
+    - Func<T, TResult>: Representa um método que aceita até
+    16 parâmetros e retorna um valor do tipo TResult.
+    
+    */
 
 
 
