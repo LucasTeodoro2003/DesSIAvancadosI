@@ -20,10 +20,17 @@
         int a = (int)x;
         Console.WriteLine($"Double: {x}, Inteiro: {a}");
 
+
         //Conversao usando Parse
         string textDecimal = "12.75";
-        double decimalString = double.Parse(textDecimal);
+        int decimalString = int.Parse(textDecimal);
         Console.WriteLine($"String: {textDecimal}, Double {decimalString}");
+
+        //Conversao usando TryParse
+        string textDecimalTry = "12.75";
+        int.TryParse(textDecimalTry, out int decimalStringTry);
+        Console.WriteLine($"String: {textDecimalTry}, Int: {decimalStringTry}");
+
 
 
         char caractere = 'A';
