@@ -1,0 +1,15 @@
+/workspaces/DesSIAvancadosI/atividadeExemplo/bin/Debug/net8.0/atividadeExemplo
+/workspaces/DesSIAvancadosI/atividadeExemplo/bin/Debug/net8.0/atividadeExemplo.deps.json
+/workspaces/DesSIAvancadosI/atividadeExemplo/bin/Debug/net8.0/atividadeExemplo.runtimeconfig.json
+/workspaces/DesSIAvancadosI/atividadeExemplo/bin/Debug/net8.0/atividadeExemplo.dll
+/workspaces/DesSIAvancadosI/atividadeExemplo/bin/Debug/net8.0/atividadeExemplo.pdb
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.AssemblyInfoInputs.cache
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.AssemblyInfo.cs
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.csproj.CoreCompileInputs.cache
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.sourcelink.json
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.dll
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/refint/atividadeExemplo.dll
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.pdb
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/atividadeExemplo.genruntimeconfig.cache
+/workspaces/DesSIAvancadosI/atividadeExemplo/obj/Debug/net8.0/ref/atividadeExemplo.dll
