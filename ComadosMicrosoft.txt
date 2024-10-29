@@ -9,3 +9,9 @@ dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
 docker-compose --version
 docker-compose up -d
 docker ps
+
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add InitialCreate
+
+
+EXTENSOES: PostgreSQL
