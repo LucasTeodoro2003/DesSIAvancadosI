@@ -4,8 +4,6 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
 
-dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
-
 
 
 docker-compose --version
