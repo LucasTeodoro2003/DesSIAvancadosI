@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/projectbundle/aula16_Razor.bundle.scp.css",
+      "PackagePath": "staticwebassets/aula16_Razor.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.aula16_Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.aula16_Razor.props",
+      "PackagePath": "build\\aula16_Razor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.aula16_Razor.props",
+      "PackagePath": "buildMultiTargeting\\aula16_Razor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.aula16_Razor.props",
+      "PackagePath": "buildTransitive\\aula16_Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+/workspaces/DesSIAvancadosI/aulaFinal/obj/Debug/net8.0/aulaFinal.csproj.AssemblyReference.cache
+/workspaces/DesSIAvancadosI/aulaFinal/obj/Debug/net8.0/aulaFinal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesSIAvancadosI/aulaFinal/obj/Debug/net8.0/aulaFinal.AssemblyInfoInputs.cache
+/workspaces/DesSIAvancadosI/aulaFinal/obj/Debug/net8.0/aulaFinal.AssemblyInfo.cs
+/workspaces/DesSIAvancadosI/aulaFinal/obj/Debug/net8.0/aulaFinal.csproj.CoreCompileInputs.cache
+/workspaces/DesSIAvancadosI/aulaFinal/obj/Debug/net8.0/aulaFinal.sourcelink.json
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.csproj.AssemblyReference.cache
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.AssemblyInfoInputs.cache
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.AssemblyInfo.cs
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.csproj.CoreCompileInputs.cache
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.sourcelink.json
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.RazorAssemblyInfo.cache
+/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/aulaFinal.RazorAssemblyInfo.cs

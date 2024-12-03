@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "E4oq/9YGTH2hAJ45lTU0KM+HGFkPiNQ17t26dH3X7W0=",
+  "Source": "aula16_Razor",
+  "BasePath": "_content/aula16_Razor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/bundle/aula16_Razor.styles.css",
+      "SourceId": "aula16_Razor",
+      "SourceType": "Computed",
+      "ContentRoot": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/aula16_Razor",
+      "RelativePath": "aula16_Razor.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/bundle/aula16_Razor.styles.css"
+    },
+    {
+      "Identity": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/projectbundle/aula16_Razor.bundle.scp.css",
+      "SourceId": "aula16_Razor",
+      "SourceType": "Computed",
+      "ContentRoot": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/aula16_Razor",
+      "RelativePath": "aula16_Razor.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/workspaces/DesSIAvancadosI/aula16_Razor/obj/Debug/net8.0/scopedcss/projectbundle/aula16_Razor.bundle.scp.css"
+    }
+  ]
+}
